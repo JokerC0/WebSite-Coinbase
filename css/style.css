@@ -302,7 +302,7 @@
 .sec-footer-cta{
     background-color: var(--color-footer);
     padding: 5rem;
-    background-image: url("/assets/img/footer.webp");
+    background-image: url("/assets/img/img-footer.webp");
     background-repeat: no-repeat;
     background-position: 100%;
 }
